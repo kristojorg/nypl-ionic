@@ -1,0 +1,7 @@
+{
+  "name": "nypl-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
